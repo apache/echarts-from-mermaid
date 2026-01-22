@@ -2,8 +2,9 @@ github:
   description: Apache ECharts From Mermaid
   homepage: https://github.com/apache/echarts-from-mermaid
   labels:
-    - echarts
     - mermaid
+    - echarts
+    - apache
     - data-visualization
 
 notifications:
